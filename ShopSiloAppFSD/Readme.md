@@ -78,21 +78,24 @@
 
 ### *Backend Setup*:
 1. Clone the repository:
-    bash
+   ``` bash
     git clone https://github.com/your-username/ShopSilo.git
     cd ShopSilo/server
+   ```
     
 
 2. Install dependencies:
-    bash
+  ```  bash
     dotnet restore
+```
     
 
 3. Set up the database:
    - Configure your *connection string* in appsettings.json.
    - Run migrations:
-     bash
+   ```  bash
      dotnet ef database update
+   ```
      
 
 4. Set up environment variables (for Razorpay integration):
@@ -103,24 +106,28 @@
      
 
 5. Run the backend server:
-    bash
+   ``` bash
     dotnet run
+   ```
     
 
 ### *Frontend Setup*:
 1. Navigate to the client directory:
-    bash
+   ``` bash
     cd ../client
+   ```
     
 
 2. Install dependencies:
-    bash
+   ``` bash
     npm install
+   ```
     
 
 3. Start the development server:
-    bash
+    ```bash
     npm start
+    ```
     
 
 ---
@@ -130,19 +137,21 @@
 To run the project:
 
 1. Start the *backend server*:
-   bash
+   ```bash
    cd server
    dotnet run
+   ```
    
 2. Start the *frontend server*
-   bash
+  ``` bash
    cd client
    npm start
+```
    
 
 ## *Setting up the API credentials APPSETTINGS.JSON*
 
-bash
+```bash
 {
   "Logging": {
     "LogLevel": {
@@ -169,3 +178,4 @@ bash
     "Key": "JWT_RANDOM_KEY" //random key
   }
 }
+```
