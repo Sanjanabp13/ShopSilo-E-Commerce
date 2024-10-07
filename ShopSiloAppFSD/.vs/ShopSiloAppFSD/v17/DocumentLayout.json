@@ -1,0 +1,921 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Sriram\\GITHUB adding files\\ShopSiloAppFSD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E9E45618-877F-44EE-BD5B-3BC496C6592B}|ShopSiloAppFSD.Server\\ShopSiloAppFSD.Server.csproj|c:\\sriram\\github adding files\\shopsiloappfsd\\shopsiloappfsd.server\\services\\invoiceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9E45618-877F-44EE-BD5B-3BC496C6592B}|ShopSiloAppFSD.Server\\ShopSiloAppFSD.Server.csproj|solutionrelative:shopsiloappfsd.server\\services\\invoiceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C28EA32-8827-498A-88FA-98BE82CE5791}|shopsiloappfsd.client\\shopsiloappfsd.client.esproj|c:\\sriram\\github adding files\\shopsiloappfsd\\shopsiloappfsd.client\\src\\components\\customer\\auth\\resetpassword.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9C28EA32-8827-498A-88FA-98BE82CE5791}|shopsiloappfsd.client\\shopsiloappfsd.client.esproj|solutionrelative:shopsiloappfsd.client\\src\\components\\customer\\auth\\resetpassword.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C28EA32-8827-498A-88FA-98BE82CE5791}|shopsiloappfsd.client\\shopsiloappfsd.client.esproj|c:\\sriram\\github adding files\\shopsiloappfsd\\shopsiloappfsd.client\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9C28EA32-8827-498A-88FA-98BE82CE5791}|shopsiloappfsd.client\\shopsiloappfsd.client.esproj|solutionrelative:shopsiloappfsd.client\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C28EA32-8827-498A-88FA-98BE82CE5791}|shopsiloappfsd.client\\shopsiloappfsd.client.esproj|c:\\sriram\\github adding files\\shopsiloappfsd\\shopsiloappfsd.client\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9C28EA32-8827-498A-88FA-98BE82CE5791}|shopsiloappfsd.client\\shopsiloappfsd.client.esproj|solutionrelative:shopsiloappfsd.client\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9E45618-877F-44EE-BD5B-3BC496C6592B}|ShopSiloAppFSD.Server\\ShopSiloAppFSD.Server.csproj|c:\\sriram\\github adding files\\shopsiloappfsd\\shopsiloappfsd.server\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9E45618-877F-44EE-BD5B-3BC496C6592B}|ShopSiloAppFSD.Server\\ShopSiloAppFSD.Server.csproj|solutionrelative:shopsiloappfsd.server\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9E45618-877F-44EE-BD5B-3BC496C6592B}|ShopSiloAppFSD.Server\\ShopSiloAppFSD.Server.csproj|c:\\sriram\\github adding files\\shopsiloappfsd\\shopsiloappfsd.server\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9E45618-877F-44EE-BD5B-3BC496C6592B}|ShopSiloAppFSD.Server\\ShopSiloAppFSD.Server.csproj|solutionrelative:shopsiloappfsd.server\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9E45618-877F-44EE-BD5B-3BC496C6592B}|ShopSiloAppFSD.Server\\ShopSiloAppFSD.Server.csproj|c:\\sriram\\github adding files\\shopsiloappfsd\\shopsiloappfsd.server\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9E45618-877F-44EE-BD5B-3BC496C6592B}|ShopSiloAppFSD.Server\\ShopSiloAppFSD.Server.csproj|solutionrelative:shopsiloappfsd.server\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9E45618-877F-44EE-BD5B-3BC496C6592B}|ShopSiloAppFSD.Server\\ShopSiloAppFSD.Server.csproj|c:\\sriram\\github adding files\\shopsiloappfsd\\shopsiloappfsd.server\\controllers\\aauthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9E45618-877F-44EE-BD5B-3BC496C6592B}|ShopSiloAppFSD.Server\\ShopSiloAppFSD.Server.csproj|solutionrelative:shopsiloappfsd.server\\controllers\\aauthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C28EA32-8827-498A-88FA-98BE82CE5791}|shopsiloappfsd.client\\shopsiloappfsd.client.esproj|c:\\sriram\\github adding files\\shopsiloappfsd\\shopsiloappfsd.client\\src\\components\\admin\\productdetails\\productform.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9C28EA32-8827-498A-88FA-98BE82CE5791}|shopsiloappfsd.client\\shopsiloappfsd.client.esproj|solutionrelative:shopsiloappfsd.client\\src\\components\\admin\\productdetails\\productform.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C28EA32-8827-498A-88FA-98BE82CE5791}|shopsiloappfsd.client\\shopsiloappfsd.client.esproj|c:\\sriram\\github adding files\\shopsiloappfsd\\shopsiloappfsd.client\\src\\components\\seller\\home\\dashboard\\bestsellingproducts.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9C28EA32-8827-498A-88FA-98BE82CE5791}|shopsiloappfsd.client\\shopsiloappfsd.client.esproj|solutionrelative:shopsiloappfsd.client\\src\\components\\seller\\home\\dashboard\\bestsellingproducts.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C28EA32-8827-498A-88FA-98BE82CE5791}|shopsiloappfsd.client\\shopsiloappfsd.client.esproj|c:\\sriram\\github adding files\\shopsiloappfsd\\shopsiloappfsd.client\\src\\components\\customer\\home\\profile\\addressmodal.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9C28EA32-8827-498A-88FA-98BE82CE5791}|shopsiloappfsd.client\\shopsiloappfsd.client.esproj|solutionrelative:shopsiloappfsd.client\\src\\components\\customer\\home\\profile\\addressmodal.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9E45618-877F-44EE-BD5B-3BC496C6592B}|ShopSiloAppFSD.Server\\ShopSiloAppFSD.Server.csproj|c:\\sriram\\github adding files\\shopsiloappfsd\\shopsiloappfsd.server\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9E45618-877F-44EE-BD5B-3BC496C6592B}|ShopSiloAppFSD.Server\\ShopSiloAppFSD.Server.csproj|solutionrelative:shopsiloappfsd.server\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9E45618-877F-44EE-BD5B-3BC496C6592B}|ShopSiloAppFSD.Server\\ShopSiloAppFSD.Server.csproj|c:\\sriram\\github adding files\\shopsiloappfsd\\shopsiloappfsd.server\\services\\icloudinaryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9E45618-877F-44EE-BD5B-3BC496C6592B}|ShopSiloAppFSD.Server\\ShopSiloAppFSD.Server.csproj|solutionrelative:shopsiloappfsd.server\\services\\icloudinaryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C28EA32-8827-498A-88FA-98BE82CE5791}|shopsiloappfsd.client\\shopsiloappfsd.client.esproj|c:\\sriram\\github adding files\\shopsiloappfsd\\shopsiloappfsd.client\\public\\images\\shopsilologo.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{9C28EA32-8827-498A-88FA-98BE82CE5791}|shopsiloappfsd.client\\shopsiloappfsd.client.esproj|solutionrelative:shopsiloappfsd.client\\public\\images\\shopsilologo.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C28EA32-8827-498A-88FA-98BE82CE5791}|shopsiloappfsd.client\\shopsiloappfsd.client.esproj|c:\\sriram\\github adding files\\shopsiloappfsd\\shopsiloappfsd.client\\src\\components\\customer\\home\\profile\\profilepage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9C28EA32-8827-498A-88FA-98BE82CE5791}|shopsiloappfsd.client\\shopsiloappfsd.client.esproj|solutionrelative:shopsiloappfsd.client\\src\\components\\customer\\home\\profile\\profilepage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9E45618-877F-44EE-BD5B-3BC496C6592B}|ShopSiloAppFSD.Server\\ShopSiloAppFSD.Server.csproj|c:\\sriram\\github adding files\\shopsiloappfsd\\shopsiloappfsd.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E9E45618-877F-44EE-BD5B-3BC496C6592B}|ShopSiloAppFSD.Server\\ShopSiloAppFSD.Server.csproj|solutionrelative:shopsiloappfsd.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C28EA32-8827-498A-88FA-98BE82CE5791}|shopsiloappfsd.client\\shopsiloappfsd.client.esproj|c:\\sriram\\github adding files\\shopsiloappfsd\\shopsiloappfsd.client\\src\\components\\seller\\home\\product\\productlist.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9C28EA32-8827-498A-88FA-98BE82CE5791}|shopsiloappfsd.client\\shopsiloappfsd.client.esproj|solutionrelative:shopsiloappfsd.client\\src\\components\\seller\\home\\product\\productlist.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C28EA32-8827-498A-88FA-98BE82CE5791}|shopsiloappfsd.client\\shopsiloappfsd.client.esproj|c:\\sriram\\github adding files\\shopsiloappfsd\\shopsiloappfsd.client\\src\\components\\customer\\product\\product.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9C28EA32-8827-498A-88FA-98BE82CE5791}|shopsiloappfsd.client\\shopsiloappfsd.client.esproj|solutionrelative:shopsiloappfsd.client\\src\\components\\customer\\product\\product.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C28EA32-8827-498A-88FA-98BE82CE5791}|shopsiloappfsd.client\\shopsiloappfsd.client.esproj|c:\\sriram\\github adding files\\shopsiloappfsd\\shopsiloappfsd.client\\src\\components\\customer\\product\\productdescriptionpage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9C28EA32-8827-498A-88FA-98BE82CE5791}|shopsiloappfsd.client\\shopsiloappfsd.client.esproj|solutionrelative:shopsiloappfsd.client\\src\\components\\customer\\product\\productdescriptionpage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C28EA32-8827-498A-88FA-98BE82CE5791}|shopsiloappfsd.client\\shopsiloappfsd.client.esproj|c:\\sriram\\github adding files\\shopsiloappfsd\\shopsiloappfsd.client\\src\\components\\customer\\home\\navbarpages\\contact.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9C28EA32-8827-498A-88FA-98BE82CE5791}|shopsiloappfsd.client\\shopsiloappfsd.client.esproj|solutionrelative:shopsiloappfsd.client\\src\\components\\customer\\home\\navbarpages\\contact.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C28EA32-8827-498A-88FA-98BE82CE5791}|shopsiloappfsd.client\\shopsiloappfsd.client.esproj|c:\\sriram\\github adding files\\shopsiloappfsd\\shopsiloappfsd.client\\src\\components\\customer\\home\\navbarpages\\about.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9C28EA32-8827-498A-88FA-98BE82CE5791}|shopsiloappfsd.client\\shopsiloappfsd.client.esproj|solutionrelative:shopsiloappfsd.client\\src\\components\\customer\\home\\navbarpages\\about.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C28EA32-8827-498A-88FA-98BE82CE5791}|shopsiloappfsd.client\\shopsiloappfsd.client.esproj|c:\\sriram\\github adding files\\shopsiloappfsd\\shopsiloappfsd.client\\src\\components\\customer\\home\\homeutils\\useproductdetails.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9C28EA32-8827-498A-88FA-98BE82CE5791}|shopsiloappfsd.client\\shopsiloappfsd.client.esproj|solutionrelative:shopsiloappfsd.client\\src\\components\\customer\\home\\homeutils\\useproductdetails.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C28EA32-8827-498A-88FA-98BE82CE5791}|shopsiloappfsd.client\\shopsiloappfsd.client.esproj|c:\\sriram\\github adding files\\shopsiloappfsd\\shopsiloappfsd.client\\src\\components\\customer\\home\\homeutils\\usecart.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9C28EA32-8827-498A-88FA-98BE82CE5791}|shopsiloappfsd.client\\shopsiloappfsd.client.esproj|solutionrelative:shopsiloappfsd.client\\src\\components\\customer\\home\\homeutils\\usecart.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C28EA32-8827-498A-88FA-98BE82CE5791}|shopsiloappfsd.client\\shopsiloappfsd.client.esproj|c:\\sriram\\github adding files\\shopsiloappfsd\\shopsiloappfsd.client\\src\\components\\customer\\home\\common\\addtocart.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9C28EA32-8827-498A-88FA-98BE82CE5791}|shopsiloappfsd.client\\shopsiloappfsd.client.esproj|solutionrelative:shopsiloappfsd.client\\src\\components\\customer\\home\\common\\addtocart.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C28EA32-8827-498A-88FA-98BE82CE5791}|shopsiloappfsd.client\\shopsiloappfsd.client.esproj|c:\\sriram\\github adding files\\shopsiloappfsd\\shopsiloappfsd.client\\src\\components\\customer\\home\\categorynavbar\\categoryproducts.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9C28EA32-8827-498A-88FA-98BE82CE5791}|shopsiloappfsd.client\\shopsiloappfsd.client.esproj|solutionrelative:shopsiloappfsd.client\\src\\components\\customer\\home\\categorynavbar\\categoryproducts.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C28EA32-8827-498A-88FA-98BE82CE5791}|shopsiloappfsd.client\\shopsiloappfsd.client.esproj|c:\\sriram\\github adding files\\shopsiloappfsd\\shopsiloappfsd.client\\src\\components\\customer\\home\\categorynavbar\\categorynavbar.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9C28EA32-8827-498A-88FA-98BE82CE5791}|shopsiloappfsd.client\\shopsiloappfsd.client.esproj|solutionrelative:shopsiloappfsd.client\\src\\components\\customer\\home\\categorynavbar\\categorynavbar.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C28EA32-8827-498A-88FA-98BE82CE5791}|shopsiloappfsd.client\\shopsiloappfsd.client.esproj|c:\\sriram\\github adding files\\shopsiloappfsd\\shopsiloappfsd.client\\src\\components\\customer\\home\\categories\\iconmapping.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9C28EA32-8827-498A-88FA-98BE82CE5791}|shopsiloappfsd.client\\shopsiloappfsd.client.esproj|solutionrelative:shopsiloappfsd.client\\src\\components\\customer\\home\\categories\\iconmapping.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C28EA32-8827-498A-88FA-98BE82CE5791}|shopsiloappfsd.client\\shopsiloappfsd.client.esproj|c:\\sriram\\github adding files\\shopsiloappfsd\\shopsiloappfsd.client\\src\\components\\customer\\home\\categories\\categorybrowseproducts.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9C28EA32-8827-498A-88FA-98BE82CE5791}|shopsiloappfsd.client\\shopsiloappfsd.client.esproj|solutionrelative:shopsiloappfsd.client\\src\\components\\customer\\home\\categories\\categorybrowseproducts.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C28EA32-8827-498A-88FA-98BE82CE5791}|shopsiloappfsd.client\\shopsiloappfsd.client.esproj|c:\\sriram\\github adding files\\shopsiloappfsd\\shopsiloappfsd.client\\src\\components\\customer\\home\\categories\\categories.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9C28EA32-8827-498A-88FA-98BE82CE5791}|shopsiloappfsd.client\\shopsiloappfsd.client.esproj|solutionrelative:shopsiloappfsd.client\\src\\components\\customer\\home\\categories\\categories.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C28EA32-8827-498A-88FA-98BE82CE5791}|shopsiloappfsd.client\\shopsiloappfsd.client.esproj|c:\\sriram\\github adding files\\shopsiloappfsd\\shopsiloappfsd.client\\src\\components\\customer\\home\\bestselling\\bestselling.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9C28EA32-8827-498A-88FA-98BE82CE5791}|shopsiloappfsd.client\\shopsiloappfsd.client.esproj|solutionrelative:shopsiloappfsd.client\\src\\components\\customer\\home\\bestselling\\bestselling.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C28EA32-8827-498A-88FA-98BE82CE5791}|shopsiloappfsd.client\\shopsiloappfsd.client.esproj|c:\\sriram\\github adding files\\shopsiloappfsd\\shopsiloappfsd.client\\src\\components\\customer\\auth\\login.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9C28EA32-8827-498A-88FA-98BE82CE5791}|shopsiloappfsd.client\\shopsiloappfsd.client.esproj|solutionrelative:shopsiloappfsd.client\\src\\components\\customer\\auth\\login.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C28EA32-8827-498A-88FA-98BE82CE5791}|shopsiloappfsd.client\\shopsiloappfsd.client.esproj|c:\\sriram\\github adding files\\shopsiloappfsd\\shopsiloappfsd.client\\src\\components\\customer\\auth\\forgotpassword.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9C28EA32-8827-498A-88FA-98BE82CE5791}|shopsiloappfsd.client\\shopsiloappfsd.client.esproj|solutionrelative:shopsiloappfsd.client\\src\\components\\customer\\auth\\forgotpassword.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C28EA32-8827-498A-88FA-98BE82CE5791}|shopsiloappfsd.client\\shopsiloappfsd.client.esproj|c:\\sriram\\github adding files\\shopsiloappfsd\\shopsiloappfsd.client\\src\\components\\customer\\auth\\authcontext.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9C28EA32-8827-498A-88FA-98BE82CE5791}|shopsiloappfsd.client\\shopsiloappfsd.client.esproj|solutionrelative:shopsiloappfsd.client\\src\\components\\customer\\auth\\authcontext.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C28EA32-8827-498A-88FA-98BE82CE5791}|shopsiloappfsd.client\\shopsiloappfsd.client.esproj|c:\\sriram\\github adding files\\shopsiloappfsd\\shopsiloappfsd.client\\src\\components\\customer\\applayout\\notfound.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9C28EA32-8827-498A-88FA-98BE82CE5791}|shopsiloappfsd.client\\shopsiloappfsd.client.esproj|solutionrelative:shopsiloappfsd.client\\src\\components\\customer\\applayout\\notfound.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9E45618-877F-44EE-BD5B-3BC496C6592B}|ShopSiloAppFSD.Server\\ShopSiloAppFSD.Server.csproj|c:\\sriram\\github adding files\\shopsiloappfsd\\shopsiloappfsd.server\\services\\razorpayoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9E45618-877F-44EE-BD5B-3BC496C6592B}|ShopSiloAppFSD.Server\\ShopSiloAppFSD.Server.csproj|solutionrelative:shopsiloappfsd.server\\services\\razorpayoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9E45618-877F-44EE-BD5B-3BC496C6592B}|ShopSiloAppFSD.Server\\ShopSiloAppFSD.Server.csproj|c:\\sriram\\github adding files\\shopsiloappfsd\\shopsiloappfsd.server\\services\\dashboardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9E45618-877F-44EE-BD5B-3BC496C6592B}|ShopSiloAppFSD.Server\\ShopSiloAppFSD.Server.csproj|solutionrelative:shopsiloappfsd.server\\services\\dashboardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9E45618-877F-44EE-BD5B-3BC496C6592B}|ShopSiloAppFSD.Server\\ShopSiloAppFSD.Server.csproj|c:\\sriram\\github adding files\\shopsiloappfsd\\shopsiloappfsd.server\\services\\auditlogconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9E45618-877F-44EE-BD5B-3BC496C6592B}|ShopSiloAppFSD.Server\\ShopSiloAppFSD.Server.csproj|solutionrelative:shopsiloappfsd.server\\services\\auditlogconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9E45618-877F-44EE-BD5B-3BC496C6592B}|ShopSiloAppFSD.Server\\ShopSiloAppFSD.Server.csproj|c:\\sriram\\github adding files\\shopsiloappfsd\\shopsiloappfsd.server\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E9E45618-877F-44EE-BD5B-3BC496C6592B}|ShopSiloAppFSD.Server\\ShopSiloAppFSD.Server.csproj|solutionrelative:shopsiloappfsd.server\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9E45618-877F-44EE-BD5B-3BC496C6592B}|ShopSiloAppFSD.Server\\ShopSiloAppFSD.Server.csproj|c:\\sriram\\github adding files\\shopsiloappfsd\\shopsiloappfsd.server\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9E45618-877F-44EE-BD5B-3BC496C6592B}|ShopSiloAppFSD.Server\\ShopSiloAppFSD.Server.csproj|solutionrelative:shopsiloappfsd.server\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9E45618-877F-44EE-BD5B-3BC496C6592B}|ShopSiloAppFSD.Server\\ShopSiloAppFSD.Server.csproj|c:\\sriram\\github adding files\\shopsiloappfsd\\shopsiloappfsd.server\\services\\cloudinaryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9E45618-877F-44EE-BD5B-3BC496C6592B}|ShopSiloAppFSD.Server\\ShopSiloAppFSD.Server.csproj|solutionrelative:shopsiloappfsd.server\\services\\cloudinaryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9E45618-877F-44EE-BD5B-3BC496C6592B}|ShopSiloAppFSD.Server\\ShopSiloAppFSD.Server.csproj|c:\\sriram\\github adding files\\shopsiloappfsd\\shopsiloappfsd.server\\services\\emailnotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9E45618-877F-44EE-BD5B-3BC496C6592B}|ShopSiloAppFSD.Server\\ShopSiloAppFSD.Server.csproj|solutionrelative:shopsiloappfsd.server\\services\\emailnotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9E45618-877F-44EE-BD5B-3BC496C6592B}|ShopSiloAppFSD.Server\\ShopSiloAppFSD.Server.csproj|c:\\sriram\\github adding files\\shopsiloappfsd\\shopsiloappfsd.server\\controllers\\wishlistscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9E45618-877F-44EE-BD5B-3BC496C6592B}|ShopSiloAppFSD.Server\\ShopSiloAppFSD.Server.csproj|solutionrelative:shopsiloappfsd.server\\controllers\\wishlistscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9E45618-877F-44EE-BD5B-3BC496C6592B}|ShopSiloAppFSD.Server\\ShopSiloAppFSD.Server.csproj|c:\\sriram\\github adding files\\shopsiloappfsd\\shopsiloappfsd.server\\repository\\paymentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9E45618-877F-44EE-BD5B-3BC496C6592B}|ShopSiloAppFSD.Server\\ShopSiloAppFSD.Server.csproj|solutionrelative:shopsiloappfsd.server\\repository\\paymentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9E45618-877F-44EE-BD5B-3BC496C6592B}|ShopSiloAppFSD.Server\\ShopSiloAppFSD.Server.csproj|c:\\sriram\\github adding files\\shopsiloappfsd\\shopsiloappfsd.server\\repository\\shippingdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9E45618-877F-44EE-BD5B-3BC496C6592B}|ShopSiloAppFSD.Server\\ShopSiloAppFSD.Server.csproj|solutionrelative:shopsiloappfsd.server\\repository\\shippingdetailrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9E45618-877F-44EE-BD5B-3BC496C6592B}|ShopSiloAppFSD.Server\\ShopSiloAppFSD.Server.csproj|c:\\sriram\\github adding files\\shopsiloappfsd\\shopsiloappfsd.server\\repository\\shoppingcartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9E45618-877F-44EE-BD5B-3BC496C6592B}|ShopSiloAppFSD.Server\\ShopSiloAppFSD.Server.csproj|solutionrelative:shopsiloappfsd.server\\repository\\shoppingcartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9E45618-877F-44EE-BD5B-3BC496C6592B}|ShopSiloAppFSD.Server\\ShopSiloAppFSD.Server.csproj|c:\\sriram\\github adding files\\shopsiloappfsd\\shopsiloappfsd.server\\repository\\wishlistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9E45618-877F-44EE-BD5B-3BC496C6592B}|ShopSiloAppFSD.Server\\ShopSiloAppFSD.Server.csproj|solutionrelative:shopsiloappfsd.server\\repository\\wishlistrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9E45618-877F-44EE-BD5B-3BC496C6592B}|ShopSiloAppFSD.Server\\ShopSiloAppFSD.Server.csproj|c:\\sriram\\github adding files\\shopsiloappfsd\\shopsiloappfsd.server\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9E45618-877F-44EE-BD5B-3BC496C6592B}|ShopSiloAppFSD.Server\\ShopSiloAppFSD.Server.csproj|solutionrelative:shopsiloappfsd.server\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9E45618-877F-44EE-BD5B-3BC496C6592B}|ShopSiloAppFSD.Server\\ShopSiloAppFSD.Server.csproj|c:\\sriram\\github adding files\\shopsiloappfsd\\shopsiloappfsd.server\\models\\subscribedusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9E45618-877F-44EE-BD5B-3BC496C6592B}|ShopSiloAppFSD.Server\\ShopSiloAppFSD.Server.csproj|solutionrelative:shopsiloappfsd.server\\models\\subscribedusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9E45618-877F-44EE-BD5B-3BC496C6592B}|ShopSiloAppFSD.Server\\ShopSiloAppFSD.Server.csproj|c:\\sriram\\github adding files\\shopsiloappfsd\\shopsiloappfsd.server\\models\\colorvariation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9E45618-877F-44EE-BD5B-3BC496C6592B}|ShopSiloAppFSD.Server\\ShopSiloAppFSD.Server.csproj|solutionrelative:shopsiloappfsd.server\\models\\colorvariation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9E45618-877F-44EE-BD5B-3BC496C6592B}|ShopSiloAppFSD.Server\\ShopSiloAppFSD.Server.csproj|c:\\sriram\\github adding files\\shopsiloappfsd\\shopsiloappfsd.server\\models\\customerdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9E45618-877F-44EE-BD5B-3BC496C6592B}|ShopSiloAppFSD.Server\\ShopSiloAppFSD.Server.csproj|solutionrelative:shopsiloappfsd.server\\models\\customerdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C28EA32-8827-498A-88FA-98BE82CE5791}|shopsiloappfsd.client\\shopsiloappfsd.client.esproj|c:\\sriram\\github adding files\\shopsiloappfsd\\shopsiloappfsd.client\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9C28EA32-8827-498A-88FA-98BE82CE5791}|shopsiloappfsd.client\\shopsiloappfsd.client.esproj|solutionrelative:shopsiloappfsd.client\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C28EA32-8827-498A-88FA-98BE82CE5791}|shopsiloappfsd.client\\shopsiloappfsd.client.esproj|c:\\sriram\\github adding files\\shopsiloappfsd\\shopsiloappfsd.client\\src\\components\\customer\\home\\flashsales\\todaydeals.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9C28EA32-8827-498A-88FA-98BE82CE5791}|shopsiloappfsd.client\\shopsiloappfsd.client.esproj|solutionrelative:shopsiloappfsd.client\\src\\components\\customer\\home\\flashsales\\todaydeals.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C28EA32-8827-498A-88FA-98BE82CE5791}|shopsiloappfsd.client\\shopsiloappfsd.client.esproj|c:\\sriram\\github adding files\\shopsiloappfsd\\shopsiloappfsd.client\\src\\components\\auditlog\\auditreportlist.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9C28EA32-8827-498A-88FA-98BE82CE5791}|shopsiloappfsd.client\\shopsiloappfsd.client.esproj|solutionrelative:shopsiloappfsd.client\\src\\components\\auditlog\\auditreportlist.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9E45618-877F-44EE-BD5B-3BC496C6592B}|ShopSiloAppFSD.Server\\ShopSiloAppFSD.Server.csproj|c:\\sriram\\github adding files\\shopsiloappfsd\\shopsiloappfsd.server\\controllers\\auditlogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9E45618-877F-44EE-BD5B-3BC496C6592B}|ShopSiloAppFSD.Server\\ShopSiloAppFSD.Server.csproj|solutionrelative:shopsiloappfsd.server\\controllers\\auditlogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9E45618-877F-44EE-BD5B-3BC496C6592B}|ShopSiloAppFSD.Server\\ShopSiloAppFSD.Server.csproj|c:\\sriram\\github adding files\\shopsiloappfsd\\shopsiloappfsd.server\\migrations\\20241006122433_shopsilodbfinal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9E45618-877F-44EE-BD5B-3BC496C6592B}|ShopSiloAppFSD.Server\\ShopSiloAppFSD.Server.csproj|solutionrelative:shopsiloappfsd.server\\migrations\\20241006122433_shopsilodbfinal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9E45618-877F-44EE-BD5B-3BC496C6592B}|ShopSiloAppFSD.Server\\ShopSiloAppFSD.Server.csproj|c:\\sriram\\github adding files\\shopsiloappfsd\\shopsiloappfsd.server\\migrations\\20241006102053_shopsilodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9E45618-877F-44EE-BD5B-3BC496C6592B}|ShopSiloAppFSD.Server\\ShopSiloAppFSD.Server.csproj|solutionrelative:shopsiloappfsd.server\\migrations\\20241006102053_shopsilodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ResetPassword.jsx",
+              "DocumentMoniker": "C:\\Sriram\\GITHUB adding files\\ShopSiloAppFSD\\shopsiloappfsd.client\\src\\components\\customer\\Auth\\ResetPassword.jsx",
+              "RelativeDocumentMoniker": "shopsiloappfsd.client\\src\\components\\customer\\Auth\\ResetPassword.jsx",
+              "ToolTip": "C:\\Sriram\\GITHUB adding files\\ShopSiloAppFSD\\shopsiloappfsd.client\\src\\components\\customer\\Auth\\ResetPassword.jsx",
+              "RelativeToolTip": "shopsiloappfsd.client\\src\\components\\customer\\Auth\\ResetPassword.jsx",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAEEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-10-07T13:35:49.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Sriram\\GITHUB adding files\\ShopSiloAppFSD\\shopsiloappfsd.client\\index.html",
+              "RelativeDocumentMoniker": "shopsiloappfsd.client\\index.html",
+              "ToolTip": "C:\\Sriram\\GITHUB adding files\\ShopSiloAppFSD\\shopsiloappfsd.client\\index.html",
+              "RelativeToolTip": "shopsiloappfsd.client\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-10-07T13:29:13.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "main.jsx",
+              "DocumentMoniker": "C:\\Sriram\\GITHUB adding files\\ShopSiloAppFSD\\shopsiloappfsd.client\\src\\main.jsx",
+              "RelativeDocumentMoniker": "shopsiloappfsd.client\\src\\main.jsx",
+              "ToolTip": "C:\\Sriram\\GITHUB adding files\\ShopSiloAppFSD\\shopsiloappfsd.client\\src\\main.jsx",
+              "RelativeToolTip": "shopsiloappfsd.client\\src\\main.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-10-07T13:29:00.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Sriram\\GITHUB adding files\\ShopSiloAppFSD\\ShopSiloAppFSD.Server\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "ShopSiloAppFSD.Server\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Sriram\\GITHUB adding files\\ShopSiloAppFSD\\ShopSiloAppFSD.Server\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "ShopSiloAppFSD.Server\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAEIBAAAAAAAAAAAqwEsBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T13:26:48.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Sriram\\GITHUB adding files\\ShopSiloAppFSD\\ShopSiloAppFSD.Server\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "ShopSiloAppFSD.Server\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "C:\\Sriram\\GITHUB adding files\\ShopSiloAppFSD\\ShopSiloAppFSD.Server\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "ShopSiloAppFSD.Server\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBIAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T13:26:24.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AddressModal.jsx",
+              "DocumentMoniker": "C:\\Sriram\\GITHUB adding files\\ShopSiloAppFSD\\shopsiloappfsd.client\\src\\components\\customer\\Home\\Profile\\AddressModal.jsx",
+              "RelativeDocumentMoniker": "shopsiloappfsd.client\\src\\components\\customer\\Home\\Profile\\AddressModal.jsx",
+              "ToolTip": "C:\\Sriram\\GITHUB adding files\\ShopSiloAppFSD\\shopsiloappfsd.client\\src\\components\\customer\\Home\\Profile\\AddressModal.jsx",
+              "RelativeToolTip": "shopsiloappfsd.client\\src\\components\\customer\\Home\\Profile\\AddressModal.jsx",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-10-06T14:42:55.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InvoiceService.cs",
+              "DocumentMoniker": "C:\\Sriram\\GITHUB adding files\\ShopSiloAppFSD\\ShopSiloAppFSD.Server\\Services\\InvoiceService.cs",
+              "RelativeDocumentMoniker": "ShopSiloAppFSD.Server\\Services\\InvoiceService.cs",
+              "ToolTip": "C:\\Sriram\\GITHUB adding files\\ShopSiloAppFSD\\ShopSiloAppFSD.Server\\Services\\InvoiceService.cs",
+              "RelativeToolTip": "ShopSiloAppFSD.Server\\Services\\InvoiceService.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAYwFAAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T13:44:40.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductForm.jsx",
+              "DocumentMoniker": "C:\\Sriram\\GITHUB adding files\\ShopSiloAppFSD\\shopsiloappfsd.client\\src\\components\\Admin\\ProductDetails\\ProductForm.jsx",
+              "RelativeDocumentMoniker": "shopsiloappfsd.client\\src\\components\\Admin\\ProductDetails\\ProductForm.jsx",
+              "ToolTip": "C:\\Sriram\\GITHUB adding files\\ShopSiloAppFSD\\shopsiloappfsd.client\\src\\components\\Admin\\ProductDetails\\ProductForm.jsx",
+              "RelativeToolTip": "shopsiloappfsd.client\\src\\components\\Admin\\ProductDetails\\ProductForm.jsx",
+              "ViewState": "AgIAAMcBAAAAAAAAAAAAANABAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-10-06T17:22:54.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProductList.jsx",
+              "DocumentMoniker": "C:\\Sriram\\GITHUB adding files\\ShopSiloAppFSD\\shopsiloappfsd.client\\src\\components\\seller\\Home\\Product\\ProductList.jsx",
+              "RelativeDocumentMoniker": "shopsiloappfsd.client\\src\\components\\seller\\Home\\Product\\ProductList.jsx",
+              "ToolTip": "C:\\Sriram\\GITHUB adding files\\ShopSiloAppFSD\\shopsiloappfsd.client\\src\\components\\seller\\Home\\Product\\ProductList.jsx",
+              "RelativeToolTip": "shopsiloappfsd.client\\src\\components\\seller\\Home\\Product\\ProductList.jsx",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAJoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-10-05T17:51:51.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Sriram\\GITHUB adding files\\ShopSiloAppFSD\\ShopSiloAppFSD.Server\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "ShopSiloAppFSD.Server\\Repository\\UserRepository.cs",
+              "ToolTip": "C:\\Sriram\\GITHUB adding files\\ShopSiloAppFSD\\ShopSiloAppFSD.Server\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "ShopSiloAppFSD.Server\\Repository\\UserRepository.cs",
+              "ViewState": "AgIAAO4BAAAAAAAAAAAowA4CAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T16:16:52.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AauthController.cs",
+              "DocumentMoniker": "C:\\Sriram\\GITHUB adding files\\ShopSiloAppFSD\\ShopSiloAppFSD.Server\\Controllers\\AauthController.cs",
+              "RelativeDocumentMoniker": "ShopSiloAppFSD.Server\\Controllers\\AauthController.cs",
+              "ToolTip": "C:\\Sriram\\GITHUB adding files\\ShopSiloAppFSD\\ShopSiloAppFSD.Server\\Controllers\\AauthController.cs",
+              "RelativeToolTip": "ShopSiloAppFSD.Server\\Controllers\\AauthController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T10:49:19.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BestSellingProducts.jsx",
+              "DocumentMoniker": "C:\\Sriram\\GITHUB adding files\\ShopSiloAppFSD\\shopsiloappfsd.client\\src\\components\\seller\\Home\\Dashboard\\BestSellingProducts.jsx",
+              "RelativeDocumentMoniker": "shopsiloappfsd.client\\src\\components\\seller\\Home\\Dashboard\\BestSellingProducts.jsx",
+              "ToolTip": "C:\\Sriram\\GITHUB adding files\\ShopSiloAppFSD\\shopsiloappfsd.client\\src\\components\\seller\\Home\\Dashboard\\BestSellingProducts.jsx",
+              "RelativeToolTip": "shopsiloappfsd.client\\src\\components\\seller\\Home\\Dashboard\\BestSellingProducts.jsx",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAAAG0AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-10-05T17:50:40.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProfilePage.jsx",
+              "DocumentMoniker": "C:\\Sriram\\GITHUB adding files\\ShopSiloAppFSD\\shopsiloappfsd.client\\src\\components\\customer\\Home\\Profile\\ProfilePage.jsx",
+              "RelativeDocumentMoniker": "shopsiloappfsd.client\\src\\components\\customer\\Home\\Profile\\ProfilePage.jsx",
+              "ToolTip": "C:\\Sriram\\GITHUB adding files\\ShopSiloAppFSD\\shopsiloappfsd.client\\src\\components\\customer\\Home\\Profile\\ProfilePage.jsx",
+              "RelativeToolTip": "shopsiloappfsd.client\\src\\components\\customer\\Home\\Profile\\ProfilePage.jsx",
+              "ViewState": "AgIAAA4BAAAAAAAAAADwvyABAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-10-05T17:40:54.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Contact.jsx",
+              "DocumentMoniker": "C:\\Sriram\\GITHUB adding files\\ShopSiloAppFSD\\shopsiloappfsd.client\\src\\components\\customer\\Home\\NavBarPages\\Contact.jsx",
+              "RelativeDocumentMoniker": "shopsiloappfsd.client\\src\\components\\customer\\Home\\NavBarPages\\Contact.jsx",
+              "ToolTip": "C:\\Sriram\\GITHUB adding files\\ShopSiloAppFSD\\shopsiloappfsd.client\\src\\components\\customer\\Home\\NavBarPages\\Contact.jsx",
+              "RelativeToolTip": "shopsiloappfsd.client\\src\\components\\customer\\Home\\NavBarPages\\Contact.jsx",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAAABEAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-10-05T17:39:50.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ICloudinaryService.cs",
+              "DocumentMoniker": "C:\\Sriram\\GITHUB adding files\\ShopSiloAppFSD\\ShopSiloAppFSD.Server\\Services\\ICloudinaryService.cs",
+              "RelativeDocumentMoniker": "ShopSiloAppFSD.Server\\Services\\ICloudinaryService.cs",
+              "ToolTip": "C:\\Sriram\\GITHUB adding files\\ShopSiloAppFSD\\ShopSiloAppFSD.Server\\Services\\ICloudinaryService.cs",
+              "RelativeToolTip": "ShopSiloAppFSD.Server\\Services\\ICloudinaryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T17:15:11.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Sriram\\GITHUB adding files\\ShopSiloAppFSD\\ShopSiloAppFSD.Server\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ShopSiloAppFSD.Server\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Sriram\\GITHUB adding files\\ShopSiloAppFSD\\ShopSiloAppFSD.Server\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ShopSiloAppFSD.Server\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T17:04:50.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "20241006122433_Shopsilodbfinal.cs",
+              "DocumentMoniker": "C:\\Sriram\\GITHUB adding files\\ShopSiloAppFSD\\ShopSiloAppFSD.Server\\Migrations\\20241006122433_Shopsilodbfinal.cs",
+              "RelativeDocumentMoniker": "ShopSiloAppFSD.Server\\Migrations\\20241006122433_Shopsilodbfinal.cs",
+              "ToolTip": "C:\\Sriram\\GITHUB adding files\\ShopSiloAppFSD\\ShopSiloAppFSD.Server\\Migrations\\20241006122433_Shopsilodbfinal.cs",
+              "RelativeToolTip": "ShopSiloAppFSD.Server\\Migrations\\20241006122433_Shopsilodbfinal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T12:24:34.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ShopSiloLogo.jpg -  [English (United States)] - Bitmap [242x312, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Sriram\\GITHUB adding files\\ShopSiloAppFSD\\shopsiloappfsd.client\\public\\images\\ShopSiloLogo.jpg",
+              "RelativeDocumentMoniker": "shopsiloappfsd.client\\public\\images\\ShopSiloLogo.jpg",
+              "ToolTip": "C:\\Sriram\\GITHUB adding files\\ShopSiloAppFSD\\shopsiloappfsd.client\\public\\images\\ShopSiloLogo.jpg -  [English (United States)] - Bitmap [242x312, 24 bit, JPG]",
+              "RelativeToolTip": "shopsiloappfsd.client\\public\\images\\ShopSiloLogo.jpg -  [English (United States)] - Bitmap [242x312, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-10-06T14:13:31.771Z",
+              "EditorCaption": " -  [English (United States)] - Bitmap [242x312, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "About.jsx",
+              "DocumentMoniker": "C:\\Sriram\\GITHUB adding files\\ShopSiloAppFSD\\shopsiloappfsd.client\\src\\components\\customer\\Home\\NavBarPages\\About.jsx",
+              "RelativeDocumentMoniker": "shopsiloappfsd.client\\src\\components\\customer\\Home\\NavBarPages\\About.jsx",
+              "ToolTip": "C:\\Sriram\\GITHUB adding files\\ShopSiloAppFSD\\shopsiloappfsd.client\\src\\components\\customer\\Home\\NavBarPages\\About.jsx",
+              "RelativeToolTip": "shopsiloappfsd.client\\src\\components\\customer\\Home\\NavBarPages\\About.jsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-10-05T17:39:43.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Sriram\\GITHUB adding files\\ShopSiloAppFSD\\ShopSiloAppFSD.Server\\appsettings.json",
+              "RelativeDocumentMoniker": "ShopSiloAppFSD.Server\\appsettings.json",
+              "ToolTip": "C:\\Sriram\\GITHUB adding files\\ShopSiloAppFSD\\ShopSiloAppFSD.Server\\appsettings.json",
+              "RelativeToolTip": "ShopSiloAppFSD.Server\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAmwAgAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-05T17:14:37.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "20241006102053_Shopsilodb.cs",
+              "DocumentMoniker": "C:\\Sriram\\GITHUB adding files\\ShopSiloAppFSD\\ShopSiloAppFSD.Server\\Migrations\\20241006102053_Shopsilodb.cs",
+              "RelativeDocumentMoniker": "ShopSiloAppFSD.Server\\Migrations\\20241006102053_Shopsilodb.cs",
+              "ToolTip": "C:\\Sriram\\GITHUB adding files\\ShopSiloAppFSD\\ShopSiloAppFSD.Server\\Migrations\\20241006102053_Shopsilodb.cs",
+              "RelativeToolTip": "ShopSiloAppFSD.Server\\Migrations\\20241006102053_Shopsilodb.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T10:20:53.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "useProductDetails.jsx",
+              "DocumentMoniker": "C:\\Sriram\\GITHUB adding files\\ShopSiloAppFSD\\shopsiloappfsd.client\\src\\components\\customer\\Home\\HomeUtils\\useProductDetails.jsx",
+              "RelativeDocumentMoniker": "shopsiloappfsd.client\\src\\components\\customer\\Home\\HomeUtils\\useProductDetails.jsx",
+              "ToolTip": "C:\\Sriram\\GITHUB adding files\\ShopSiloAppFSD\\shopsiloappfsd.client\\src\\components\\customer\\Home\\HomeUtils\\useProductDetails.jsx",
+              "RelativeToolTip": "shopsiloappfsd.client\\src\\components\\customer\\Home\\HomeUtils\\useProductDetails.jsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-10-05T17:39:31.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "useCart.jsx",
+              "DocumentMoniker": "C:\\Sriram\\GITHUB adding files\\ShopSiloAppFSD\\shopsiloappfsd.client\\src\\components\\customer\\Home\\HomeUtils\\useCart.jsx",
+              "RelativeDocumentMoniker": "shopsiloappfsd.client\\src\\components\\customer\\Home\\HomeUtils\\useCart.jsx",
+              "ToolTip": "C:\\Sriram\\GITHUB adding files\\ShopSiloAppFSD\\shopsiloappfsd.client\\src\\components\\customer\\Home\\HomeUtils\\useCart.jsx",
+              "RelativeToolTip": "shopsiloappfsd.client\\src\\components\\customer\\Home\\HomeUtils\\useCart.jsx",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-10-05T17:39:08.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AddToCart.jsx",
+              "DocumentMoniker": "C:\\Sriram\\GITHUB adding files\\ShopSiloAppFSD\\shopsiloappfsd.client\\src\\components\\customer\\Home\\common\\AddToCart.jsx",
+              "RelativeDocumentMoniker": "shopsiloappfsd.client\\src\\components\\customer\\Home\\common\\AddToCart.jsx",
+              "ToolTip": "C:\\Sriram\\GITHUB adding files\\ShopSiloAppFSD\\shopsiloappfsd.client\\src\\components\\customer\\Home\\common\\AddToCart.jsx",
+              "RelativeToolTip": "shopsiloappfsd.client\\src\\components\\customer\\Home\\common\\AddToCart.jsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-10-05T17:38:46.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Product.jsx",
+              "DocumentMoniker": "C:\\Sriram\\GITHUB adding files\\ShopSiloAppFSD\\shopsiloappfsd.client\\src\\components\\customer\\Product\\Product.jsx",
+              "RelativeDocumentMoniker": "shopsiloappfsd.client\\src\\components\\customer\\Product\\Product.jsx",
+              "ToolTip": "C:\\Sriram\\GITHUB adding files\\ShopSiloAppFSD\\shopsiloappfsd.client\\src\\components\\customer\\Product\\Product.jsx",
+              "RelativeToolTip": "shopsiloappfsd.client\\src\\components\\customer\\Product\\Product.jsx",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAD8AAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-10-05T14:04:21.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ProductDescriptionPage.jsx",
+              "DocumentMoniker": "C:\\Sriram\\GITHUB adding files\\ShopSiloAppFSD\\shopsiloappfsd.client\\src\\components\\customer\\Product\\ProductDescriptionPage.jsx",
+              "RelativeDocumentMoniker": "shopsiloappfsd.client\\src\\components\\customer\\Product\\ProductDescriptionPage.jsx",
+              "ToolTip": "C:\\Sriram\\GITHUB adding files\\ShopSiloAppFSD\\shopsiloappfsd.client\\src\\components\\customer\\Product\\ProductDescriptionPage.jsx",
+              "RelativeToolTip": "shopsiloappfsd.client\\src\\components\\customer\\Product\\ProductDescriptionPage.jsx",
+              "ViewState": "AQIAAIEAAAAAAAAAAAAAAJ0AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-10-05T14:03:18.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "iconMapping.jsx",
+              "DocumentMoniker": "C:\\Sriram\\GITHUB adding files\\ShopSiloAppFSD\\shopsiloappfsd.client\\src\\components\\customer\\Home\\Categories\\iconMapping.jsx",
+              "RelativeDocumentMoniker": "shopsiloappfsd.client\\src\\components\\customer\\Home\\Categories\\iconMapping.jsx",
+              "ToolTip": "C:\\Sriram\\GITHUB adding files\\ShopSiloAppFSD\\shopsiloappfsd.client\\src\\components\\customer\\Home\\Categories\\iconMapping.jsx",
+              "RelativeToolTip": "shopsiloappfsd.client\\src\\components\\customer\\Home\\Categories\\iconMapping.jsx",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAEAAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-10-05T17:37:13.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "BestSelling.jsx",
+              "DocumentMoniker": "C:\\Sriram\\GITHUB adding files\\ShopSiloAppFSD\\shopsiloappfsd.client\\src\\components\\customer\\Home\\BestSelling\\BestSelling.jsx",
+              "RelativeDocumentMoniker": "shopsiloappfsd.client\\src\\components\\customer\\Home\\BestSelling\\BestSelling.jsx",
+              "ToolTip": "C:\\Sriram\\GITHUB adding files\\ShopSiloAppFSD\\shopsiloappfsd.client\\src\\components\\customer\\Home\\BestSelling\\BestSelling.jsx",
+              "RelativeToolTip": "shopsiloappfsd.client\\src\\components\\customer\\Home\\BestSelling\\BestSelling.jsx",
+              "ViewState": "AQIAAKsAAAAAAAAAAAAAAKMAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-10-05T17:34:41.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Login.jsx",
+              "DocumentMoniker": "C:\\Sriram\\GITHUB adding files\\ShopSiloAppFSD\\shopsiloappfsd.client\\src\\components\\customer\\Auth\\Login.jsx",
+              "RelativeDocumentMoniker": "shopsiloappfsd.client\\src\\components\\customer\\Auth\\Login.jsx",
+              "ToolTip": "C:\\Sriram\\GITHUB adding files\\ShopSiloAppFSD\\shopsiloappfsd.client\\src\\components\\customer\\Auth\\Login.jsx",
+              "RelativeToolTip": "shopsiloappfsd.client\\src\\components\\customer\\Auth\\Login.jsx",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABkAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-10-05T17:33:38.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ForgotPassword.jsx",
+              "DocumentMoniker": "C:\\Sriram\\GITHUB adding files\\ShopSiloAppFSD\\shopsiloappfsd.client\\src\\components\\customer\\Auth\\ForgotPassword.jsx",
+              "RelativeDocumentMoniker": "shopsiloappfsd.client\\src\\components\\customer\\Auth\\ForgotPassword.jsx",
+              "ToolTip": "C:\\Sriram\\GITHUB adding files\\ShopSiloAppFSD\\shopsiloappfsd.client\\src\\components\\customer\\Auth\\ForgotPassword.jsx",
+              "RelativeToolTip": "shopsiloappfsd.client\\src\\components\\customer\\Auth\\ForgotPassword.jsx",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAAkAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-10-05T17:32:43.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AuthContext.jsx",
+              "DocumentMoniker": "C:\\Sriram\\GITHUB adding files\\ShopSiloAppFSD\\shopsiloappfsd.client\\src\\components\\customer\\Auth\\AuthContext.jsx",
+              "RelativeDocumentMoniker": "shopsiloappfsd.client\\src\\components\\customer\\Auth\\AuthContext.jsx",
+              "ToolTip": "C:\\Sriram\\GITHUB adding files\\ShopSiloAppFSD\\shopsiloappfsd.client\\src\\components\\customer\\Auth\\AuthContext.jsx",
+              "RelativeToolTip": "shopsiloappfsd.client\\src\\components\\customer\\Auth\\AuthContext.jsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-10-05T17:31:49.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Categories.jsx",
+              "DocumentMoniker": "C:\\Sriram\\GITHUB adding files\\ShopSiloAppFSD\\shopsiloappfsd.client\\src\\components\\customer\\Home\\Categories\\Categories.jsx",
+              "RelativeDocumentMoniker": "shopsiloappfsd.client\\src\\components\\customer\\Home\\Categories\\Categories.jsx",
+              "ToolTip": "C:\\Sriram\\GITHUB adding files\\ShopSiloAppFSD\\shopsiloappfsd.client\\src\\components\\customer\\Home\\Categories\\Categories.jsx",
+              "RelativeToolTip": "shopsiloappfsd.client\\src\\components\\customer\\Home\\Categories\\Categories.jsx",
+              "ViewState": "AQIAAG8AAAAAAAAAAAAAAAkAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-10-05T15:58:27.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CategoryNavBar.jsx",
+              "DocumentMoniker": "C:\\Sriram\\GITHUB adding files\\ShopSiloAppFSD\\shopsiloappfsd.client\\src\\components\\customer\\Home\\CategoryNavBar\\CategoryNavBar.jsx",
+              "RelativeDocumentMoniker": "shopsiloappfsd.client\\src\\components\\customer\\Home\\CategoryNavBar\\CategoryNavBar.jsx",
+              "ToolTip": "C:\\Sriram\\GITHUB adding files\\ShopSiloAppFSD\\shopsiloappfsd.client\\src\\components\\customer\\Home\\CategoryNavBar\\CategoryNavBar.jsx",
+              "RelativeToolTip": "shopsiloappfsd.client\\src\\components\\customer\\Home\\CategoryNavBar\\CategoryNavBar.jsx",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABoAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-10-05T16:06:56.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CategoryProducts.jsx",
+              "DocumentMoniker": "C:\\Sriram\\GITHUB adding files\\ShopSiloAppFSD\\shopsiloappfsd.client\\src\\components\\customer\\Home\\CategoryNavBar\\CategoryProducts.jsx",
+              "RelativeDocumentMoniker": "shopsiloappfsd.client\\src\\components\\customer\\Home\\CategoryNavBar\\CategoryProducts.jsx",
+              "ToolTip": "C:\\Sriram\\GITHUB adding files\\ShopSiloAppFSD\\shopsiloappfsd.client\\src\\components\\customer\\Home\\CategoryNavBar\\CategoryProducts.jsx",
+              "RelativeToolTip": "shopsiloappfsd.client\\src\\components\\customer\\Home\\CategoryNavBar\\CategoryProducts.jsx",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAiwEoAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-10-05T15:37:23.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "NotFound.jsx",
+              "DocumentMoniker": "C:\\Sriram\\GITHUB adding files\\ShopSiloAppFSD\\shopsiloappfsd.client\\src\\components\\customer\\AppLayout\\NotFound.jsx",
+              "RelativeDocumentMoniker": "shopsiloappfsd.client\\src\\components\\customer\\AppLayout\\NotFound.jsx",
+              "ToolTip": "C:\\Sriram\\GITHUB adding files\\ShopSiloAppFSD\\shopsiloappfsd.client\\src\\components\\customer\\AppLayout\\NotFound.jsx",
+              "RelativeToolTip": "shopsiloappfsd.client\\src\\components\\customer\\AppLayout\\NotFound.jsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-10-05T17:31:39.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "RazorpayOptions.cs",
+              "DocumentMoniker": "C:\\Sriram\\GITHUB adding files\\ShopSiloAppFSD\\ShopSiloAppFSD.Server\\Services\\RazorpayOptions.cs",
+              "RelativeDocumentMoniker": "ShopSiloAppFSD.Server\\Services\\RazorpayOptions.cs",
+              "ToolTip": "C:\\Sriram\\GITHUB adding files\\ShopSiloAppFSD\\ShopSiloAppFSD.Server\\Services\\RazorpayOptions.cs",
+              "RelativeToolTip": "ShopSiloAppFSD.Server\\Services\\RazorpayOptions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T17:31:03.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CategoryBrowseProducts.jsx",
+              "DocumentMoniker": "C:\\Sriram\\GITHUB adding files\\ShopSiloAppFSD\\shopsiloappfsd.client\\src\\components\\customer\\Home\\Categories\\CategoryBrowseProducts.jsx",
+              "RelativeDocumentMoniker": "shopsiloappfsd.client\\src\\components\\customer\\Home\\Categories\\CategoryBrowseProducts.jsx",
+              "ToolTip": "C:\\Sriram\\GITHUB adding files\\ShopSiloAppFSD\\shopsiloappfsd.client\\src\\components\\customer\\Home\\Categories\\CategoryBrowseProducts.jsx",
+              "RelativeToolTip": "shopsiloappfsd.client\\src\\components\\customer\\Home\\Categories\\CategoryBrowseProducts.jsx",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAAAFQAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-10-05T16:02:55.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "DashboardService.cs",
+              "DocumentMoniker": "C:\\Sriram\\GITHUB adding files\\ShopSiloAppFSD\\ShopSiloAppFSD.Server\\Services\\DashboardService.cs",
+              "RelativeDocumentMoniker": "ShopSiloAppFSD.Server\\Services\\DashboardService.cs",
+              "ToolTip": "C:\\Sriram\\GITHUB adding files\\ShopSiloAppFSD\\ShopSiloAppFSD.Server\\Services\\DashboardService.cs",
+              "RelativeToolTip": "ShopSiloAppFSD.Server\\Services\\DashboardService.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T17:30:07.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "AuditLogConfiguration.cs",
+              "DocumentMoniker": "C:\\Sriram\\GITHUB adding files\\ShopSiloAppFSD\\ShopSiloAppFSD.Server\\Services\\AuditLogConfiguration.cs",
+              "RelativeDocumentMoniker": "ShopSiloAppFSD.Server\\Services\\AuditLogConfiguration.cs",
+              "ToolTip": "C:\\Sriram\\GITHUB adding files\\ShopSiloAppFSD\\ShopSiloAppFSD.Server\\Services\\AuditLogConfiguration.cs",
+              "RelativeToolTip": "ShopSiloAppFSD.Server\\Services\\AuditLogConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T17:29:59.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Sriram\\GITHUB adding files\\ShopSiloAppFSD\\ShopSiloAppFSD.Server\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ShopSiloAppFSD.Server\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Sriram\\GITHUB adding files\\ShopSiloAppFSD\\ShopSiloAppFSD.Server\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ShopSiloAppFSD.Server\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-05T17:29:44.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "CloudinaryService.cs",
+              "DocumentMoniker": "C:\\Sriram\\GITHUB adding files\\ShopSiloAppFSD\\ShopSiloAppFSD.Server\\Services\\CloudinaryService.cs",
+              "RelativeDocumentMoniker": "ShopSiloAppFSD.Server\\Services\\CloudinaryService.cs",
+              "ToolTip": "C:\\Sriram\\GITHUB adding files\\ShopSiloAppFSD\\ShopSiloAppFSD.Server\\Services\\CloudinaryService.cs",
+              "RelativeToolTip": "ShopSiloAppFSD.Server\\Services\\CloudinaryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T17:09:15.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "EmailNotificationService.cs",
+              "DocumentMoniker": "C:\\Sriram\\GITHUB adding files\\ShopSiloAppFSD\\ShopSiloAppFSD.Server\\Services\\EmailNotificationService.cs",
+              "RelativeDocumentMoniker": "ShopSiloAppFSD.Server\\Services\\EmailNotificationService.cs",
+              "ToolTip": "C:\\Sriram\\GITHUB adding files\\ShopSiloAppFSD\\ShopSiloAppFSD.Server\\Services\\EmailNotificationService.cs",
+              "RelativeToolTip": "ShopSiloAppFSD.Server\\Services\\EmailNotificationService.cs",
+              "ViewState": "AQIAAGQAAAAAAAAAAAAkwH0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T16:55:02.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "WishlistsController.cs",
+              "DocumentMoniker": "C:\\Sriram\\GITHUB adding files\\ShopSiloAppFSD\\ShopSiloAppFSD.Server\\Controllers\\WishlistsController.cs",
+              "RelativeDocumentMoniker": "ShopSiloAppFSD.Server\\Controllers\\WishlistsController.cs",
+              "ToolTip": "C:\\Sriram\\GITHUB adding files\\ShopSiloAppFSD\\ShopSiloAppFSD.Server\\Controllers\\WishlistsController.cs",
+              "RelativeToolTip": "ShopSiloAppFSD.Server\\Controllers\\WishlistsController.cs",
+              "ViewState": "AQIAAFgAAAAAAAAAAAAwwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T16:51:55.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "PaymentController.cs",
+              "DocumentMoniker": "C:\\Sriram\\GITHUB adding files\\ShopSiloAppFSD\\ShopSiloAppFSD.Server\\Controllers\\PaymentController.cs",
+              "RelativeDocumentMoniker": "ShopSiloAppFSD.Server\\Controllers\\PaymentController.cs",
+              "ToolTip": "C:\\Sriram\\GITHUB adding files\\ShopSiloAppFSD\\ShopSiloAppFSD.Server\\Controllers\\PaymentController.cs",
+              "RelativeToolTip": "ShopSiloAppFSD.Server\\Controllers\\PaymentController.cs",
+              "ViewState": "AQIAANEAAAAAAAAAAAAIwOUAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T15:22:11.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "ShippingDetailRepository.cs",
+              "DocumentMoniker": "C:\\Sriram\\GITHUB adding files\\ShopSiloAppFSD\\ShopSiloAppFSD.Server\\Repository\\ShippingDetailRepository.cs",
+              "RelativeDocumentMoniker": "ShopSiloAppFSD.Server\\Repository\\ShippingDetailRepository.cs",
+              "ToolTip": "C:\\Sriram\\GITHUB adding files\\ShopSiloAppFSD\\ShopSiloAppFSD.Server\\Repository\\ShippingDetailRepository.cs",
+              "RelativeToolTip": "ShopSiloAppFSD.Server\\Repository\\ShippingDetailRepository.cs",
+              "ViewState": "AQIAAKkAAAAAAAAAAAAwwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T16:26:29.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ShoppingCartRepository.cs",
+              "DocumentMoniker": "C:\\Sriram\\GITHUB adding files\\ShopSiloAppFSD\\ShopSiloAppFSD.Server\\Repository\\ShoppingCartRepository.cs",
+              "RelativeDocumentMoniker": "ShopSiloAppFSD.Server\\Repository\\ShoppingCartRepository.cs",
+              "ToolTip": "C:\\Sriram\\GITHUB adding files\\ShopSiloAppFSD\\ShopSiloAppFSD.Server\\Repository\\ShoppingCartRepository.cs",
+              "RelativeToolTip": "ShopSiloAppFSD.Server\\Repository\\ShoppingCartRepository.cs",
+              "ViewState": "AQIAAEsBAAAAAAAAAAAcwA0BAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T16:24:31.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "WishlistRepository.cs",
+              "DocumentMoniker": "C:\\Sriram\\GITHUB adding files\\ShopSiloAppFSD\\ShopSiloAppFSD.Server\\Repository\\WishlistRepository.cs",
+              "RelativeDocumentMoniker": "ShopSiloAppFSD.Server\\Repository\\WishlistRepository.cs",
+              "ToolTip": "C:\\Sriram\\GITHUB adding files\\ShopSiloAppFSD\\ShopSiloAppFSD.Server\\Repository\\WishlistRepository.cs",
+              "RelativeToolTip": "ShopSiloAppFSD.Server\\Repository\\WishlistRepository.cs",
+              "ViewState": "AQIAAKEAAAAAAAAAAAAUwDIAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T16:23:35.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "PaymentRepository.cs",
+              "DocumentMoniker": "C:\\Sriram\\GITHUB adding files\\ShopSiloAppFSD\\ShopSiloAppFSD.Server\\Repository\\PaymentRepository.cs",
+              "RelativeDocumentMoniker": "ShopSiloAppFSD.Server\\Repository\\PaymentRepository.cs",
+              "ToolTip": "C:\\Sriram\\GITHUB adding files\\ShopSiloAppFSD\\ShopSiloAppFSD.Server\\Repository\\PaymentRepository.cs",
+              "RelativeToolTip": "ShopSiloAppFSD.Server\\Repository\\PaymentRepository.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAgwJkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T15:22:11.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "SubscribedUsers.cs",
+              "DocumentMoniker": "C:\\Sriram\\GITHUB adding files\\ShopSiloAppFSD\\ShopSiloAppFSD.Server\\Models\\SubscribedUsers.cs",
+              "RelativeDocumentMoniker": "ShopSiloAppFSD.Server\\Models\\SubscribedUsers.cs",
+              "ToolTip": "C:\\Sriram\\GITHUB adding files\\ShopSiloAppFSD\\ShopSiloAppFSD.Server\\Models\\SubscribedUsers.cs",
+              "RelativeToolTip": "ShopSiloAppFSD.Server\\Models\\SubscribedUsers.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T16:14:48.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "ColorVariation.cs",
+              "DocumentMoniker": "C:\\Sriram\\GITHUB adding files\\ShopSiloAppFSD\\ShopSiloAppFSD.Server\\Models\\ColorVariation.cs",
+              "RelativeDocumentMoniker": "ShopSiloAppFSD.Server\\Models\\ColorVariation.cs",
+              "ToolTip": "C:\\Sriram\\GITHUB adding files\\ShopSiloAppFSD\\ShopSiloAppFSD.Server\\Models\\ColorVariation.cs",
+              "RelativeToolTip": "ShopSiloAppFSD.Server\\Models\\ColorVariation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T16:11:57.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "CustomerDetail.cs",
+              "DocumentMoniker": "C:\\Sriram\\GITHUB adding files\\ShopSiloAppFSD\\ShopSiloAppFSD.Server\\Models\\CustomerDetail.cs",
+              "RelativeDocumentMoniker": "ShopSiloAppFSD.Server\\Models\\CustomerDetail.cs",
+              "ToolTip": "C:\\Sriram\\GITHUB adding files\\ShopSiloAppFSD\\ShopSiloAppFSD.Server\\Models\\CustomerDetail.cs",
+              "RelativeToolTip": "ShopSiloAppFSD.Server\\Models\\CustomerDetail.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T16:11:33.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Sriram\\GITHUB adding files\\ShopSiloAppFSD\\ShopSiloAppFSD.Server\\Models\\User.cs",
+              "RelativeDocumentMoniker": "ShopSiloAppFSD.Server\\Models\\User.cs",
+              "ToolTip": "C:\\Sriram\\GITHUB adding files\\ShopSiloAppFSD\\ShopSiloAppFSD.Server\\Models\\User.cs",
+              "RelativeToolTip": "ShopSiloAppFSD.Server\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T16:09:53.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "App.jsx",
+              "DocumentMoniker": "C:\\Sriram\\GITHUB adding files\\ShopSiloAppFSD\\shopsiloappfsd.client\\src\\App.jsx",
+              "RelativeDocumentMoniker": "shopsiloappfsd.client\\src\\App.jsx",
+              "ToolTip": "C:\\Sriram\\GITHUB adding files\\ShopSiloAppFSD\\shopsiloappfsd.client\\src\\App.jsx",
+              "RelativeToolTip": "shopsiloappfsd.client\\src\\App.jsx",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAEwAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-10-05T13:46:58.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "TodayDeals.jsx",
+              "DocumentMoniker": "C:\\Sriram\\GITHUB adding files\\ShopSiloAppFSD\\shopsiloappfsd.client\\src\\components\\customer\\Home\\FlashSales\\TodayDeals.jsx",
+              "RelativeDocumentMoniker": "shopsiloappfsd.client\\src\\components\\customer\\Home\\FlashSales\\TodayDeals.jsx",
+              "ToolTip": "C:\\Sriram\\GITHUB adding files\\ShopSiloAppFSD\\shopsiloappfsd.client\\src\\components\\customer\\Home\\FlashSales\\TodayDeals.jsx",
+              "RelativeToolTip": "shopsiloappfsd.client\\src\\components\\customer\\Home\\FlashSales\\TodayDeals.jsx",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAHwAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-10-05T14:02:55.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "AuditReportList.jsx",
+              "DocumentMoniker": "C:\\Sriram\\GITHUB adding files\\ShopSiloAppFSD\\shopsiloappfsd.client\\src\\components\\AuditLog\\AuditReportList.jsx",
+              "RelativeDocumentMoniker": "shopsiloappfsd.client\\src\\components\\AuditLog\\AuditReportList.jsx",
+              "ToolTip": "C:\\Sriram\\GITHUB adding files\\ShopSiloAppFSD\\shopsiloappfsd.client\\src\\components\\AuditLog\\AuditReportList.jsx",
+              "RelativeToolTip": "shopsiloappfsd.client\\src\\components\\AuditLog\\AuditReportList.jsx",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAAAGEAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-10-05T13:43:44.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "AuditLogController.cs",
+              "DocumentMoniker": "C:\\Sriram\\GITHUB adding files\\ShopSiloAppFSD\\ShopSiloAppFSD.Server\\Controllers\\AuditLogController.cs",
+              "RelativeDocumentMoniker": "ShopSiloAppFSD.Server\\Controllers\\AuditLogController.cs",
+              "ToolTip": "C:\\Sriram\\GITHUB adding files\\ShopSiloAppFSD\\ShopSiloAppFSD.Server\\Controllers\\AuditLogController.cs",
+              "RelativeToolTip": "ShopSiloAppFSD.Server\\Controllers\\AuditLogController.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAUwGcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T13:43:05.009Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

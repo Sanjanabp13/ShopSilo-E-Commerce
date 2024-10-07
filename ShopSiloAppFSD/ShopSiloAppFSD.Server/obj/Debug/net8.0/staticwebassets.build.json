@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "I+GjLT4C31edslXeOuENDTG7Hcp5QO+o256qYilvi/A=",
+  "Source": "ShopSiloAppFSD.Server",
+  "BasePath": "_content/ShopSiloAppFSD.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Sriram\\MONDAYSHopsilo\\ShopSiloAppFSD\\shopsiloappfsd.client\\shopsiloappfsd.client.esproj",
+      "Version": 2,
+      "Source": "shopsiloappfsd.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
